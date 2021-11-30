@@ -1,5 +1,9 @@
 webpage{
-    background-image: url("https://github.com/zy12347/file/blob/main/300080.jpg");
-    color:aqua;
-    align-items: center;
+    background-image: url("image/328470.jpg");
+}
+img{
+    max-width: 100%;
+}
+textStyle{
+    color: rgba(16, 75, 238, 0.096);
 }
