@@ -1,9 +1,11 @@
-webpage{
+.webpage{
     background-image: url("image/328470.jpg");
 }
-img{
-    max-width: 100%;
+.roundIcon{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
 }
-textStyle{
+.textStyle{
     color: rgba(16, 75, 238, 0.096);
 }
